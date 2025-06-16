@@ -1,13 +1,13 @@
 {
     "name": "avaleurs-launcher",
     "productName": "Avaleurs Launcher",
-    "version": "10.0.0",
+    "version": "1.0.0",
     "description": "Launcher Minecraft pour le serveur des Avaleurs",
     "main": "src/app.js",
     "author": {
-        "name": "GamoTune",
-        "email": "contact@gamo.one",
-        "url": "https://github.com/GamoTune"
+        "name": "luuxis, GamoTune, Inc.",
+        "email": "contact@luuxis.fr",
+        "url": "https://github.com/luuxis"
     },
     "url": "https://minecraft.gamo.one:50012",
     "scripts": {
