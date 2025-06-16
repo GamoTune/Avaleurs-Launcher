@@ -9,7 +9,7 @@
         "email": "contact@gamo.one",
         "url": "https://github.com/GamoTune"
     },
-    "url": "http://minecraft.gamo.one:8081/files",
+    "url": "https://minecraft.gamo.one:50012",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
