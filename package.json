@@ -1,7 +1,7 @@
 {
     "name": "avaleurs-launcher",
     "productName": "Avaleurs Launcher",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Launcher Minecraft pour le serveur des Avaleurs",
     "main": "src/app.js",
     "author": {
@@ -30,7 +30,7 @@
     },
     "devDependencies": {
         "cross-env": "^7.0.3",
-        "electron": "^30.0.9",
+        "electron": "^38.2.0",
         "electron-builder": "^24.13.3",
         "javascript-obfuscator": "^4.1.0",
         "jimp": "^0.22.12",
